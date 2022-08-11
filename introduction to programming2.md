@@ -24,10 +24,11 @@
 
 ### Именование переменных
 
-* __Snake case__ - *"змеиный"*. Например, **max_number_index**.
+
+* __Snake case__ - *"змеиный стиль"*. Например, **max_number_index**.
 
 ![змея](566.jpg)
 
-* __Camel case__ - *"верблюжий"*. Например, **MaxNumberIndex**.
+* __Camel case__ - *"верблюжий стиль"*. Например, **MaxNumberIndex**. 
 
 ![верблюд](422.jpg)
